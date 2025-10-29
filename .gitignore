@@ -1,6 +1,14 @@
 # Prerequisites
 *.d
 
+**/bin/**
+
+
+# GLAD
+glad.c 
+glad.h
+khrplatform.h
+
 # Compiled Object files
 *.slo
 *.lo
