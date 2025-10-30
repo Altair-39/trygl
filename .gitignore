@@ -2,7 +2,7 @@
 *.d
 
 **/bin/**
-
+**/*.jpg
 
 # GLAD
 glad.c 
