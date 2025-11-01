@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blahaj
+* source:	https://sketchfab.com/3d-models/blahaj-ce981de49111488c81ea646067abe1ec
+* author:	Kaine_G (https://sketchfab.com/Kaine_G)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blahaj" (https://sketchfab.com/3d-models/blahaj-ce981de49111488c81ea646067abe1ec) by Kaine_G (https://sketchfab.com/Kaine_G) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
